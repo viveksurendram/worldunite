@@ -1,0 +1,23 @@
+// element bg color
+.secondary-bg{
+    background-color: var(--th-secondary);
+}
+.secondary-bg-100{
+    background-color: var(--th-secondary-100);
+}
+// eliemnt color
+.primary-text{
+    color: var(--th-primary) !important;
+}
+.primary-text-100{
+    color: var(--th-primary-100) !important;
+}
+.secondary-text{
+    color: var(--th-secondary) !important;
+}
+.secondary-text-100{
+    color: var(--th-secondary-100) !important;
+}
+.blue-text{
+    color: var(--th-success) !important;
+}

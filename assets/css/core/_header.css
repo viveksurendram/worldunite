@@ -1,0 +1,10 @@
+.main-header {
+  border-bottom: 0.5px solid #ddd;
+}
+.main-header .site-logo {
+  color: var(--th-primary);
+  font-size: 28px;
+  line-height: 30px;
+  letter-spacing: 0.25px;
+  padding: 10px 0;
+}
